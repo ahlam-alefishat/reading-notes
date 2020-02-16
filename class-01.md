@@ -9,8 +9,10 @@ this image will show you what meant by structure of the html
 ![](H.png) 
 - <p> is the opening tag.
 - </p> is the closing tag .
- #### Attributes give us more information about each element  
+ #### Attributes give us more information about each element  :
+ attributes are like:
  
+
 
 
 
