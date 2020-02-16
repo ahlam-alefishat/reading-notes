@@ -7,6 +7,7 @@
 Read Number | Links
 ----------- | ------
 read01 | [class-01](https://ahlamalefishat96.github.io/reading-notes/class-01)
+read02 | [class-0](https://ahlamalefishat96.github.io/reading-notes/class-02)
 read03 | 
 read04 | 
 read05 | 
