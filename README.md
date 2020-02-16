@@ -1,13 +1,11 @@
-# Reading-notes.
+
 # Code 201 Reading Notes.
 ## This page will include the table of content of the whole reading notes that i'm willing to do in this course.
 
 #### Table of content 
 Read Number | Links
 ----------- | ------
-read01      | 
------------ | ------
-read02      | 
+read01      | [class-01](https://ahlamalefishat96.github.io/reading-notes/class-01)
 ----------- | ------
 read03      | 
 ----------- | ------
