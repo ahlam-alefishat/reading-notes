@@ -37,11 +37,31 @@ pixels (to demonstrate its relevance without scrolling).
 
 From the Duckett JS book:
 
-## Chapter 3 (first part): “Functions, Methods, and Objects” 
+## Chapter 3: “Functions, Methods, and Objects” 
+- Functions allow you to group a set of related statements together that represent a single task.
+- Functions can take parameters (informatiorJ required
+to do their job) and may return a value.
+#### declaring funtion 
+example:
+function sayHello(){
+    document.write('Hello!);
+}
+#### calling a function: to the function above type :
+sayHello();
 
 
 
 
 
 
-## Article: “6 Reasons for Pair Programming”ss
+
+
+## Article: “6 Reasons for Pair Programming”
+
+### Why pair program?
+1. Greater efficiency.
+2. Engaged collaboration.
+3. Learning from fellow students.
+4. Social skills.
+5. Job interview readiness
+6. Work environment readiness
