@@ -27,4 +27,9 @@ definition.
 
 ## JS BOOK
 
-### Chapter 4: “Decisions and Loops” 
+### Chapter 4: “Decisions and Loops”
+#### loops in JavaScript are:
+1. While.
+2. Do- While .
+3. For.
+" Each repeats a set of statements. "
