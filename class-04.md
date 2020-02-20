@@ -52,10 +52,6 @@ sayHello();
 
 
 
-
-
-
-
 ## Article: “6 Reasons for Pair Programming”
 
 ### Why pair program?
