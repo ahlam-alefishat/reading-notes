@@ -34,15 +34,10 @@ var roomsFree=hotel.checkAvailability();
 
 ## Chapter 5: “Document Object Model”
 1. The browser represents the page using a DOM tree.
-2. DOM trees have four types of nodes: document nodes,
-element nodes, attribute nodes, and text nodes.
-3. You can select element nodes by their id or cl ass
-attributes, by tag name, or using CSS selector syntax.
-4. Whenever a DOM query can return more than one
-node, it will always return a Nadel i st.
-5. From an element node, you can access and update its
-content using properties such as textContent and
-i nnerHTML or using DOM manipulation techniques.
+2. DOM trees have four types of nodes: document nodes,element nodes, attribute nodes, and text nodes.
+3. You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.
+4. Whenever a DOM query can return more than one node, it will always return a Node list.
+5. From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
 6. An element node can contain multiple text nodes and
 child elements that are siblings of each other.
 7. In older browsers, implementation of the DOM is
