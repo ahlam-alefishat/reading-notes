@@ -6,6 +6,17 @@ stages) and stacks, you are more likely to find the error
 in your code.
 * Debugging is the process of finding errors. It involves a
 process of deduction.
+#### DEBUGGING TIPS:
+1. ANOTHER BROWSER 
+2. ADD NUMBERS 
+3. STRIP IT BACK 
+4. EXPLAINING THE CODE 
+5. SEARCH
+6. CODE PLAYGROUNDS 
+7. VALIDATION TOOLS 
+
+
+
 * The console helps narrow down the area in which the
 error is located, so you can try to find the exact error.
 * JavaScript has 7 different types of errors. Each creates
