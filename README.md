@@ -22,3 +22,15 @@ read13 | [class-13](https://ahlamalefishat96.github.io/reading-notes/class-13)
 read14 | [class-14](https://ahlamalefishat96.github.io/reading-notes/class-14)
 read15 | [class-15](https://ahlamalefishat96.github.io/reading-notes/class-15)
 
+# Code 301 Reading Notes.
+## This page will include the table of content of the whole reading notes that i'm willing to do in this course.
+#### Table of content 
+
+Read Number | Links
+----------- | ------
+read01 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-01)
+read02 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-02)read03 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-03)read04 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-04)read05 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-05)read06 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-06)read07 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-07)read08 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-08)read09 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-09)
+read10 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-10)
+read11 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-11)
+read12 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-12)read13 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-13)read14 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-14)
+read15 | [Read-01](https://ahlamalefishat96.github.io/reading-notes/Read-15)
