@@ -1,5 +1,4 @@
 # Read-15
-## Why diversity matters to your tech company?
 - Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago
 Programming: is fast becoming the most lucrative skill you can have in the modern world.
 
