@@ -46,7 +46,7 @@ read15 | [Read-15](https://ahlamalefishat96.github.io/reading-notes/Read-15)
 
 Read Number | Links
 ----------- | ------
-Read01 | [class-01](https://ahlamalefishat96.github.io/reading-notes/Class-01)
+Read01 | [class-01](https://ahlamalefishat96.github.io/reading-notes/01)
 Read02 | 
 Read03 | 
 Read04 |
