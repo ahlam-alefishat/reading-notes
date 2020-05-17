@@ -1,7 +1,5 @@
 
 # Code 201 Reading Notes.
-## This page will include the table of content of the whole reading notes that i'm willing to do in this course.
-
 #### Table of content 
 
 Read Number | Links
@@ -23,7 +21,6 @@ read14 | [class-14](https://ahlamalefishat96.github.io/reading-notes/class-14)
 read15 | [class-15](https://ahlamalefishat96.github.io/reading-notes/class-15)
 
 # Code 301 Reading Notes.
-## This page will include the table of content of the whole reading notes that i'm willing to do in this course.
 #### Table of content 
 
 Read Number | Links
@@ -43,3 +40,24 @@ read12 | [Read-12](https://ahlamalefishat96.github.io/reading-notes/Read-12)
 read13 | [Read-13](https://ahlamalefishat96.github.io/reading-notes/Read-13)
 read14 | [Read-14](https://ahlamalefishat96.github.io/reading-notes/Read-14)
 read15 | [Read-15](https://ahlamalefishat96.github.io/reading-notes/Read-15)
+
+# Code 301 Reading Notes.
+#### Table of content 
+
+Read Number | Links
+----------- | ------
+Read01 | [class-01](https://ahlamalefishat96.github.io/reading-notes/Class-01)
+Read02 | 
+Read03 | 
+Read04 |
+Read05 | 
+Read06 | 
+Read07 | 
+Read08 | 
+Read09 |
+Read10 |
+Read11 |
+Read12 |
+Read13 |
+Read14 | 
+Read15 | 
