@@ -41,13 +41,16 @@ read13 | [Read-13](https://ahlamalefishat96.github.io/reading-notes/Read-13)
 read14 | [Read-14](https://ahlamalefishat96.github.io/reading-notes/Read-14)
 read15 | [Read-15](https://ahlamalefishat96.github.io/reading-notes/Read-15)
 
-# Code 301 Reading Notes.
+# Code 401 Reading Notes.
 #### Table of content 
 
 Read Number | Links
 ----------- | ------
 Read01 | [class-01](https://ahlamalefishat96.github.io/reading-notes/01)
+<<<<<<< HEAD
 Read01 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+=======
+>>>>>>> fb4a2ca5dea985c586f020b9fdfbd8b9a94f7898
 Read02 | 
 Read03 | 
 Read04 |
