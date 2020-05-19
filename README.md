@@ -47,18 +47,17 @@ read15 | [Read-15](https://ahlamalefishat96.github.io/reading-notes/Read-15)
 Read Number | Links
 ----------- | ------
 Read01 | [class-01](https://ahlamalefishat96.github.io/reading-notes/01)
-
-Read02 |[class-02](https://ahlamalefishat96.github.io/reading-notes/02)
-Read03 | 
-Read04 |
-Read05 | 
-Read06 | 
-Read07 | 
-Read08 | 
-Read09 |
-Read10 |
-Read11 |
-Read12 |
-Read13 |
-Read14 | 
-Read15 | 
+Read02 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read03 | [class-03](https://ahlamalefishat96.github.io/reading-notes/02)
+Read04 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read05 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read06 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read07 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read08 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read09 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read10 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read11 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read12 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read13 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read14 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
+Read15 | [class-02](https://ahlamalefishat96.github.io/reading-notes/02)
