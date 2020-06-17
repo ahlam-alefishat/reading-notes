@@ -63,5 +63,9 @@ Read14 | [class-14](https://ahlamalefishat96.github.io/reading-notes/14)
 Read15 | [class-15](https://ahlamalefishat96.github.io/reading-notes/15)
 Read16 | [class-16](https://ahlamalefishat96.github.io/reading-notes/16)
 Read17 | [class-17](https://ahlamalefishat96.github.io/reading-notes/17)
+Read18 | [class-18](https://ahlamalefishat96.github.io/reading-notes/18)
+Read19 | [class-19](https://ahlamalefishat96.github.io/reading-notes/19)
+
+
 
 
