@@ -66,6 +66,9 @@ Read17 | [class-17](https://ahlamalefishat96.github.io/reading-notes/17)
 Read18 | [class-18](https://ahlamalefishat96.github.io/reading-notes/18)
 Read19 | [class-19](https://ahlamalefishat96.github.io/reading-notes/19)
 Read26 | [class-26](https://ahlamalefishat96.github.io/reading-notes/26)
+Read27 | [class-27](https://ahlamalefishat96.github.io/reading-notes/27)
+Read28 | [class-28](https://ahlamalefishat96.github.io/reading-notes/28)
+
 
 
 
