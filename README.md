@@ -72,6 +72,9 @@ Read29 | [class-29](https://ahlamalefishat96.github.io/reading-notes/29)
 Read30 | [class-30](https://ahlamalefishat96.github.io/reading-notes/30)
 Read31 | [class-31](https://ahlamalefishat96.github.io/reading-notes/31)
 Read32 | [class-32](https://ahlamalefishat96.github.io/reading-notes/32)
+Read33 | [class-33](https://ahlamalefishat96.github.io/reading-notes/33)
+Read34 | [class-34](https://ahlamalefishat96.github.io/reading-notes/34)
+
 
 
 
