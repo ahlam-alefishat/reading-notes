@@ -79,6 +79,8 @@ Read36 | [class-36](https://ahlamalefishat96.github.io/reading-notes/36)
 Read37 | [class-37](https://ahlamalefishat96.github.io/reading-notes/37)
 Read38 | [class-38](https://ahlamalefishat96.github.io/reading-notes/38)
 Read39 | [class-39](https://ahlamalefishat96.github.io/reading-notes/39)
+Read41 | [class-41](https://ahlamalefishat96.github.io/reading-notes/41)
+
 
 
 
